@@ -1,0 +1,83 @@
+L’espionnage des citoyens par les agences de renseignement
+n’est plus une idée mais une certitude pour les individus.
+Après certaines affaires passées, certaines révélations,
+le pessimisme des citoyens se voit justifié par un étalement
+de faits. Les affaires traitant d’espionnages orchestrés par
+des haut-placés ne sont pas dures à trouver. On peut commencer
+par l’affaire Watergate qui révéla l’installation de
+micros pour écouter dans les bureaux du parti Démocrate
+par Nixon. Si cette affaire traite d’espionnage au sein même
+du gouvernement, on peut citer une révélation concernant les
+civils et qui a su faire couler de l’encre en 2013, l’affaire
+Snowden. Ce dernier est aujourd’hui réfugié en Russie parcequ’il
+a révélé des dizaines de milliers de documents de
+la NSA décrivant le programme de surveillance massif de
+l’agence américaine. Récemment, début 2017, une nouvelle
+fuite de documents révélant l’espionnage des citoyens frappe
+fort. C’est sur Wikileaks, site permettant de faire entendre les
+lanceurs d’alerte, que sont publiés les documents en question
+: Vault 7. Nous allons traiter dans cet article de la fuite
+Vault 7 et ce qu’elle comprend exactement. Pour cela nous
+expliquerons ce qu’est Vault 7 et ses révélations dans une
+première partie, puis nous examinerons plus particulièrement
+les documents concernés pour chercher à comprendre si nous
+sommes effectivement sous espionnage.
+II. VAULT 7, UNE SÉRIE DE FUITES
+A. Wikileaks
+Wikileaks est un site crée par John Young et Julian
+Assange en 2006, prônant la transparence planétaire, c’està-
+dire la vérité aux yeux de tous. Pour cela, il se propose
+d’être une plateforme où chaque individu (du public comme
+du privé) peut divulguer des informations confidentielles
+cachées au grand public. Le site assure la confidentialité
+de ces informateurs. C’est donc anonymement que sont
+publiées les informations avant d’être analysées par des
+collaborateurs. Wikileaks collabore effectivement avec de
+grands journaux du monde tels que le New York Times
+(Etats-Unis), The Guardian (Grande-Bretagne), Le Monde ou
+Libération (France) qui publient des résumés des documents.
+S’il publie déjà des documents dès décembre 2006, c’est en
+avril 2010 que le site se fait véritablement connaître du grand
+public en diffusant une vidéo d’une « bavure » de l’armée
+américaine à Bagdad. On y voit en vue subjective depuis
+un hélicoptère le mitraillage d’un groupe civil par l’armée.
+Les échange radio associés sont tout aussi choquant que les
+images. Parmi les morts, deux photo reporters Reuters sont
+tués et deux enfants blessés. Wikileaks se fait ainsi grandement
+connaître, ses publications seront par la suite plus
+visibles, allant des révélations sur les guerres d’Afghanistan
+et d’Irak à celles d’évasion fiscale en passant par l’écoute
+de 3 présidents français (J.Chirac, N.Sarkozy et F.Hollande)
+par la NSA. En début d’année 2017, Wikileaks publie une
+série de documents fuités relative à l’espionnage des civils
+par la CIA, nom de code : Vault 7.
+B. Vault 7
+Vault 7 est une série de publications de documents fuités
+concernant des agissements de la CIA. Ces documents sont
+publiés chaque semaine par Wikileaks et présentent des projets
+de la CIA tels que des malwares (logiciels malveillants),
+virus, chevaux de Troie, exploitation de failles dites "zeroday",
+ainsi que des backdoors et des techniques de contrôle à
+distance. Des guides d’utilisation accompagnent ces projets
+fuités.
+Ces révélations sur les outils Vault7 ont commencées en
+février 2017, par le biais de Twitter [1]. En mars 2017,
+les autorités américaines admettent qu’il y a bien eu une
+fuite au sein de la CIA. Leurs soupçons s’orientent vers les
+contractuels et anciens hackers au service du gouvernement,
+qui pourraient être probablement la source de cette fuite.
+Ainsi un premier lot de documents de 7800 pages web
+est publié. Il contient entre autres des archives au sujet
+de la NSA déjà publiées par le lanceur d’alerte Edward
+Snowden. Wikileaks souhaitant protéger sa source n’a pas
+donné d’informations à ce sujet. Il a cependant été précisé
+que les motivations de la source étaient de donner lieu à un
+débat public sur la sécurité, l’utilisation et la prolifération de
+cyber-armes.
+La question sur l’authenticité des documents a été débattue,
+la CIA ne souhaitant pas faire de commentaire à ce
+sujet. Des personnalités telles que Edward Snowden ont pu
+approuver la véracité au sujet du contenu des documents. Il a
+d’ailleurs été fait un parallèle entre la divulgation des outils
+Vault7 et les outils de piratages de la NSA rendus publics
+par le groupe de hackers « The Shadow Brokers » en 2016.
